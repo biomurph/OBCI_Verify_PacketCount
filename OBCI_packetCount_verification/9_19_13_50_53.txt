@@ -1,0 +1,8 @@
+%OBCI Packet Count Verification of file /Users/biomurph/Documents/Processing/OBCI_Stuff/OpenBCI_GUI_awesome/SavedData\openBCI_raw_2014-09-17_17-04-35.txt
+%OpenBCI Raw EEG Data
+%
+%Sample Rate = 250.0 Hz
+%First Column = SampleIndex
+%Other Columns = EEG data in microvolts with optional columns at end being unscaled Aux data
+read 5776 lines
+verify took 113 mS

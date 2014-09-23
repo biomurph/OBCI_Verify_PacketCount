@@ -1,0 +1,18 @@
+%OBCI Packet Count Verification of file /Users/biomurph/Documents/Processing/OBCI_Stuff/OpenBCI_GUI/SavedData\openBCI_raw_2014-09-19_14-17-10.txt
+%OpenBCI Raw EEG Data
+%
+%Sample Rate = 250.0 Hz
+%First Column = SampleIndex
+%Other Columns = EEG data in microvolts with optional columns at end being unscaled Aux data
+At line 2047  1 packets dropped
+At line 29460  1 packets dropped
+At line 61335  1 packets dropped
+At line 372272  1 packets dropped
+At line 436067  1 packets dropped
+At line 449258  1 packets dropped
+At line 495009  1 packets dropped
+At line 517699  1 packets dropped
+At line 559323  1 packets dropped
+At line 679000  1 packets dropped
+read 689526 lines
+verify took 1340 mS
